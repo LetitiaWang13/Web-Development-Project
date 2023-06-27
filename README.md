@@ -5,3 +5,6 @@
 This repo recods my process of studying Web Development and doing corresponding projects. Right now, it contains the following sub-project:
 1. html portfolio
 2. Responsive Website
+   - Flexbox exercise
+   - Grid exercise
+   - Bootstrap exercise
